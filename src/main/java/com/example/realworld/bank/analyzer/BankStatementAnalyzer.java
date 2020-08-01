@@ -1,5 +1,6 @@
 package com.example.realworld.bank.analyzer;
 
+import com.example.realworld.bank.filter.BankTransactionIsInFebruaryAndExpensive;
 import com.example.realworld.bank.parser.BankStatementParser;
 import com.example.realworld.bank.processor.BankStatementProcessor;
 import com.example.realworld.bank.transaction.BankTransaction;
@@ -19,5 +20,6 @@ public class BankStatementAnalyzer {
 
         final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFrom(lines);
         final BankStatementProcessor bankStatementProcessor = new BankStatementProcessor(bankTransactions);
+        final List<BankTransaction> transactions = bankStatementProcessor.findTranctions(new BankTransactionIsInFebruaryAndExpensive());
     }
 }
