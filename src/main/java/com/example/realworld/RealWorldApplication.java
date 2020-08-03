@@ -22,5 +22,4 @@ public class RealWorldApplication {
 
 		bankStatementAnalyzer.analyze(fileName, bankStatementParser);
 	}
-
 }
