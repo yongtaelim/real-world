@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="038b56d5-398a-4d84-88f4-6b2374a308f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/realworld/bank/analyzer/BankStatementAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/realworld/bank/parser/BankStatementParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/realworld/bank/parser/BankStatementSCVParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/real-world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/realworld/RealWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/realworld/RealWorldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/realworld/bank/BankTransactionAnalyerSimple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/realworld/bank/parser/BankStatementSCVParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/realworld/bank/parser/BankStatementSCVParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/realworld/RealWorldApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/realworld/RealWorldApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fNrL2zdT9SQi3VeLbA2x3OmP40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.BankStatementSCVParserTest.shouldParseOneCorrectLine">
+    <configuration name="BankStatementSCVParserTest.shouldParseOneCorrectLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.realworld.bank.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.realworld.bank.parser" />
+      <option name="MAIN_CLASS_NAME" value="com.example.realworld.bank.parser.BankStatementSCVParserTest" />
+      <option name="METHOD_NAME" value="shouldParseOneCorrectLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealWorldApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.realworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.realworld" />
+      <option name="MAIN_CLASS_NAME" value="com.example.realworld.RealWorldApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealWorldApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="real-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.realworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.realworld" />
+      <option name="MAIN_CLASS_NAME" value="com.example.realworld.RealWorldApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="real-world" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.realworld.RealWorldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankStatementSCVParserTest.shouldParseOneCorrectLine" />
+        <item itemvalue="JUnit.RealWorldApplicationTests" />
+        <item itemvalue="JUnit.RealWorldApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038b56d5-398a-4d84-88f4-6b2374a308f3" name="Default Changelist" comment="" />
+      <created>1596069331702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596069331702</updated>
+      <workItem from="1596069335185" duration="3097000" />
+      <workItem from="1596150504745" duration="3345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-754" y="342" key="#com.intellij.ide.util.MemberChooser" timestamp="1596150922419">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-754" y="342" key="#com.intellij.ide.util.MemberChooser/0.23.1280.715/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1596150922419" />
+    <state x="-1472" y="193" key="SettingsEditor" timestamp="1596153859300">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-1472" y="193" key="SettingsEditor/0.23.1280.715/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1596153859300" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1596071195799">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1280.715/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1596071195799" />
+    <state x="-1295" y="286" key="run.anything.popup" timestamp="1596069545969">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-1295" y="286" key="run.anything.popup/0.23.1280.715/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1596069545969" />
+    <state x="-1295" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1596153321736">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-1295" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1280.715/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1596153321736" />
+  </component>
+</project>
